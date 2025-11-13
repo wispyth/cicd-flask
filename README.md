@@ -1,6 +1,6 @@
 # cicd-flask: CI/CD пайплайн для Python-приложения
 
-Данный репозиторий базовый цикл CI/CD (Continuous Integration / Continuous Deployment) для простого веб-приложения на Flask.
+Данный репозиторий демонстрирует базовый цикл CI/CD (Continuous Integration / Continuous Deployment) для простого веб-приложения на Flask.
 
 Приложение контейнеризировано с помощью Docker и автоматически собирается, тестируется (линтером) и публикуется в GitHub Container Registry (GHCR) с помощью GitHub Actions.
 
